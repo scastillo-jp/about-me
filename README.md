@@ -132,26 +132,28 @@
 <br/>
 
 ### Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastillo-jp&show_icons=true&locale=en&layout=compact&theme=" alt="scastillo-jp" height="192px"/>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastillo-jp&show_icons=true&locale=en&layout=compact&theme=" alt="scastillo-jp" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/scastillo-jp"><img alt="Sandro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=scastillo-jp&custom_title=Sandro%20Castillo's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/scastillo-jp"><img alt="Sandro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=scastillo-jp&custom_title=Sandro%20Castillo's%20Contribution%20Graph&theme=xcode" /></a>
 
-
+</details>
 <br/>
 
 ### Let's Connect
-<p align="center">
+<p align="left">
   <a href="mailto:scastillo-jp@gmail.com" target="_blank"> 
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836.svg?logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/sandro-castillo-2a790018a/" target="_blank"> 
     <img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logoColor=white"/>
   </a>
 	
