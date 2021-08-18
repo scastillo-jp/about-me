@@ -7,7 +7,11 @@
 ### Streak Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=scastillo-jp" alt="scastilll-jp"  />
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scastillo-jp&show_icons=true&count_private=true&theme=" height="192px"/></a>
 </p>
+<p align="center">
+    
+<br/>
 
 
 ### My Skills
@@ -18,14 +22,18 @@
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a>
+  &emsp; 
+  <a href="https://dart.dev" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  <a href="https://www.google.com/search?client=safari&rls=en&q=typescript&ie=UTF-8&oe=UTF-8" target="_blank"> 
+    <img alt="TypesCript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
@@ -37,12 +45,24 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+#### Frontend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  </a> 
+  &emsp; 
+  <a href="https://material-ui.com" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Material--UI-0081CB.svg?logo=material-ui&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://ant.design" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/ANT-DESIGN?logo=ant&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://tailwindcss.com" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+  </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
@@ -53,25 +73,23 @@
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
+#### Databases & Cloud Hosting
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
+    <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B.svg?logo=mongodb&logoColor=white"></a>
+  &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://cloud.google.com">
+	  <img alt="Google cloud" src ="https://img.shields.io/badge/Google_Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
+    </a>
  </p>
   
-### 👉Graphic Designing
+#### Graphic Designing
 <p align="left">
   &emsp;
-  	
-  
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
@@ -83,23 +101,17 @@
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
   </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  &emsp;
+  <a href="https://www.google.com/search?client=safari&rls=en&q=zeplin&ie=UTF-8&oe=UTF-8" target="_blank"> 
+   <img alt="Zelpin" src="https://aleen42.github.io/badges/src/zeplin.svg">
   </a>
  </p>
 
- ### 👉 Software & Tools
+ ### Software & Tools
  
 <p>
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
@@ -119,46 +131,28 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+### Github Stats
 
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastillo-jp&show_icons=true&locale=en&layout=compact&theme=" alt="scastillo-jp" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+  
 
-
-<details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Candida18"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+   <a href="https://github.com/scastillo-jp"><img alt="Sandro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=scastillo-jp&custom_title=Sandro%20Castillo's%20Contribution%20Graph&theme=react-dark" /></a>
 
-</details>
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+### Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:candida.noronha18@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Candida18"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/candida-ruth-noronha-b019101ab"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+  <a href="mailto:scastillo-jp@gmail.com" target="_blank"> 
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836.svg?logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://linkedin.com/in/" target="_blank"> 
+    <img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logoColor=white"/>
+  </a>
 	
 </p>
-
-<hr/>
-
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
