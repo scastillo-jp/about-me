@@ -105,9 +105,10 @@
   <a href="https://www.google.com/search?client=safari&rls=en&q=zeplin&ie=UTF-8&oe=UTF-8" target="_blank"> 
    <img alt="Zelpin" src="https://aleen42.github.io/badges/src/zeplin.svg">
   </a>
+  <br/>
  </p>
-<br/>
- ### Software & Tools
+
+#### Software & Tools
  
 <p>
   &emsp;
