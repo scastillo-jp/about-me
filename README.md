@@ -6,7 +6,6 @@
 
 ### Streak Stats
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=scastillo-jp" alt="scastilll-jp"  />
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scastillo-jp&show_icons=true&count_private=true&theme=" height="192px"/></a>
 </p>
 <p align="center">
@@ -136,6 +135,8 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=scastillo-jp" alt="scastilll-jp"  />
+
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scastillo-jp&show_icons=true&locale=en&layout=compact&theme=" alt="scastillo-jp" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -144,7 +145,7 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/scastillo-jp"><img alt="Sandro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=scastillo-jp&custom_title=Sandro%20Castillo's%20Contribution%20Graph&theme=xcode" /></a>
-
+  <br/>
 </details>
 <br/>
 
