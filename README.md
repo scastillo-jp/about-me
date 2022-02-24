@@ -142,10 +142,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/scastillo-jp"><img alt="Sandro's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=scastillo-jp&custom_title=Sandro%20Castillo's%20Contribution%20Graph&theme=xcode" /></a>
-  <br/>
+  <br/> -->
 </details>
 <br/>
 
