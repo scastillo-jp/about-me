@@ -4,15 +4,6 @@
 <p align="center">I am a Developer I like to Code to FrontEnd and Backend, Web Design. I am an enthusiastic and a social person who loves to take up new challenges and learn new technologies.</p>
 <br>
 
-### Streak Stats
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=scastillo-jp&show_icons=true&count_private=true&theme=" height="192px"/></a>
-</p>
-<p align="center">
-    
-<br/>
-
-
 ### My Skills
 
 #### Programming languages
